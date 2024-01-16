@@ -216,3 +216,7 @@ background: #6C63FF;
 border-radius: 4px;
 color: #FFFFFF;
 }
+
+#card-text{
+	margin-top: 120px;
+}
